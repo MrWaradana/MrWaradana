@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Ridho, or you can call me Dho..
+- 👋 Hi, I'm Ridho,
 - 👀 I’m interested in programming, music and creative design
 - 🌱 I’m currently learning how to become a frontend developer
 
