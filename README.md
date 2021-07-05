@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming, music and creative design
 - 🌱 I’m currently learning how to become a frontend developer
 - 😴 I Love sleeping
-- 
 
 <!---
 MrWaradana/MrWaradana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
