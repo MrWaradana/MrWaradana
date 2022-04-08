@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Ridho,
 - 👀 I’m interested in programming, music and creative design
 - 🌱 I’m currently learning how to become a frontend developer
-- 🏫 I'm currently learning the php framework, <a href="https://laravel.com/"> <img src="https://laravel.com/img/logomark.min.svg" height=20> <img src="https://laravel.com/img/logotype.min.svg" height=20> <img src="https://laravel.com/img/logomark.min.svg" height=20> </a>
+
 
 <!---
 MrWaradana/MrWaradana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
