@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,nextjs,ts,laravel,vscode,py" />
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,nextjs,ts,js,laravel,vscode,py" />
   </a>
 </p> -->
 [![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,ts,laravel,vscode,py)](#)
