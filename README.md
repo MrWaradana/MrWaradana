@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,nextjs,ts,js,laravel,vscode,py" />
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,nextjs,ts,javascript,laravel,vscode,py" />
   </a>
 </p> -->
-[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,ts,laravel,vscode,py)](#)
+[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,nextjs,ts,js,laravel,vscode,py)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWaradana&count_private=true&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only&hide=ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
 
