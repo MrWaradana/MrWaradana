@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ridho,
 - 👀 I’m interested in programming, music and creative design
-- 🌱 I’m currently learning how to become a frontend developer
+- 🌱 I’m currently learning how to become a web dev/ML Dev
 
 
 <!---
