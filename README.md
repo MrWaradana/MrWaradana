@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ridho,
 - 👀 I’m interested in programming, music and creative design
-- 🌱 I’m currently learning how to become a web dev/ML Dev
+- 🌱 I’m currently learning how to become a Software Engineer with current focus learning on Web App Development and Machine Learning
 
 
 <!---
